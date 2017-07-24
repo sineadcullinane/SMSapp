@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMSapp</string>
+    <string name="input_text">Enter message here...</string>
+    <string name="button_text">Send</string>
+    <string name="sms_notification_title">SMS</string>
+    <string name="sms_notification_content">New SMS</string>
+</resources>
